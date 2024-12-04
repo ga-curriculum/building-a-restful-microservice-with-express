@@ -9,23 +9,23 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+settingUpYourFirstExpressServer = new Template.Microlesson {
+  friendlyName = "Setting Up Your First Express Server"
+  dirName = "setting-up-your-first-express-server"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+creatingAnExpressRouter = new Template.Microlesson {
+  friendlyName = "Creating an Express Router"
+  dirName = "creating-an-express-router"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+developingCRUDWithExpressControllers = new Template.Microlesson {
+  friendlyName = "Developing CRUD Endpoints with Express Controllers"
+  dirName = "developing-crud-endpoints-with-express-controllers"
   type = "Content"
   videoUrl = ""
 }
