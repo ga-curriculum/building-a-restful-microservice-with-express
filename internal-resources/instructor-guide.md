@@ -1,9 +1,9 @@
 <h1>
-  <span class="headline">Building a Microservice with Express JS</span>
+  <span class="headline">Building a RESTful Microservice with Express</span>
   <span class="subhead">Instructor Guide</span>
 </h1>
 
-***Nothing here yet.***
+**_Nothing here yet._**
 
 ---
 

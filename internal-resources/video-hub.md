@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Building a Microservice with Express JS</span>
+  <span class="headline">Building a RESTful Microservice with Express</span>
   <span class="subhead">Video Hub</span>
 </h1>
 

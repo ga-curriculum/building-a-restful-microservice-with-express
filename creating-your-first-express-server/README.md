@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Building a Microservice with Express JS</span>
-  <span class="subhead">Setting Up Your First Express Server</span>
+  <span class="headline">Building a RESTful Microservice with Express</span>
+  <span class="subhead">Creating Your First Express Server</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to create and run a basic Express server to handle incoming HTTP requests.

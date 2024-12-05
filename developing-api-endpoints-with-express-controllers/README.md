@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Building a Microservice with Express JS</span>
-  <span class="subhead">Developing CRUD Endpoints with Express Controllers</span>
+  <span class="headline">Building a RESTful Microservice with Express</span>
+  <span class="subhead">Developing API Endpoints with Express Controllers</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to build and organize controller functions to handle CRUD operations in an Express app.

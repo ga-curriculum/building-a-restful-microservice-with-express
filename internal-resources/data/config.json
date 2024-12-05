@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Building a Microservice with Express JS",
-    "name": "building-a-microservice-with-express-js",
+    "friendlyName": "Building a RESTful Microservice with Express",
+    "name": "building-a-restful-microservice-with-express",
     "type": "Lesson",
     "about": "",
     "starterCode": "",

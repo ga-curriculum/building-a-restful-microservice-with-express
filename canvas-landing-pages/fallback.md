@@ -1,7 +1,7 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Building a Microservice with Express JS</span>
+  <span class="headline">Building a RESTful Microservice with Express</span>
 </h1>
 
 tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.

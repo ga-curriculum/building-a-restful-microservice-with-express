@@ -1,11 +1,11 @@
 <h1>
-  <span class="headline">Building a Microservice with Express JS</span>
+  <span class="headline">Building a RESTful Microservice with Express</span>
   <span class="subhead">Setup</span>
 </h1>
 
 ## Setup
 
-In this setup lesson, you will prepare your environment for building a microservice with Express JS. Follow the steps below to ensure your development workspace is configured properly.
+In this setup lesson, you will prepare your environment for Building a RESTful Microservice with Express. Follow the steps below to ensure your development workspace is configured properly.
 
 ### 1. Create the project directory
 

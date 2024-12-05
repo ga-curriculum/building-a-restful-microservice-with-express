@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Building a Microservice with Express JS</span>
-  <span class="subhead">Creating an Express Router</span>
+  <span class="headline">Building a RESTful Microservice with Express</span>
+  <span class="subhead">Implementing Routing in Express</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to set up an Express router, create routes for handling HTTP GET and POST requests, and run their server in development mode with automatic reloading.
@@ -108,6 +108,6 @@ npm install nodemon --save-dev
 
 - For production use, run the command `npm run prod`, which will start the server without `nodemon`.
 
-### Next Steps 
+### Next Steps
 
 Next we need to create an accounts controller file and refactor our router to make our code more organized and readable.
