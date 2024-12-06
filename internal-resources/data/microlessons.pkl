@@ -9,23 +9,80 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-settingUpYourFirstExpressServer = new Template.Microlesson {
-  friendlyName = "Setting Up Your First Express Server"
-  dirName = "setting-up-your-first-express-server"
+creatingYourFirstExpressServer = new Template.Microlesson {
+  friendlyName = "Creating Your First Express Server"
+  dirName = "creating-your-first-express-server"
   type = "Content"
   videoUrl = ""
 }
 
-creatingAnExpressRouter = new Template.Microlesson {
-  friendlyName = "Creating an Express Router"
-  dirName = "creating-an-express-router"
+implementingRoutingInExpress = new Template.Microlesson {
+  friendlyName = "Implementing Routing in Express"
+  dirName = "implementing-routing-in-express"
   type = "Content"
   videoUrl = ""
 }
 
-developingCRUDWithExpressControllers = new Template.Microlesson {
-  friendlyName = "Developing CRUD Endpoints with Express Controllers"
-  dirName = "developing-crud-endpoints-with-express-controllers"
+developingApiEndpointsWithExpressControllers = new Template.Microlesson {
+  friendlyName = "Developing API Endpoints with Express Controllers"
+  dirName = "developing-api-endpoints-with-express-controllers"
   type = "Content"
   videoUrl = ""
 }
+
+containerizingTheExpressAPI = new Template.Microlesson {
+  friendlyName = "Containerizing the Express API"
+  dirName = "containerizing-the-express-api"
+  type = "Content"
+  videoUrl = ""
+}
+
+creatingAndConfiguringADatabaseContainer = new Template.Microlesson {
+  friendlyName = "Creating and Configuring a Database Container"
+  dirName = "creating-and-configuring-a-database-container"
+  type = "Content"
+  videoUrl = ""
+}
+
+deployingADynamoDBTableWithAnsible = new Template.Microlesson {
+  friendlyName = "Deploying a DynamoDB Table with Ansible"
+  dirName = "deploying-a-dynamodb-table-with-ansible"
+  type = "Content"
+  videoUrl = ""
+}
+
+refactoringControllersForCRUDWithDynamoDB = new Template.Microlesson {
+  friendlyName = "Refactoring Controllers for CRUD with DynamoDB"
+  dirName = "refactoring-controllers-for-crud-with-dynamodb"
+  type = "Content"
+  videoUrl = ""
+}
+
+provisioningDynamoDBWithTerraform = new Template.Microlesson {
+  friendlyName = "Provisioning DynamoDB with Terraform"
+  dirName = "provisioning-dynamodb-with-terraform"
+  type = "Content"
+  videoUrl = ""
+}
+
+connectingTheAPIToTheCloudDynamoDBInstance = new Template.Microlesson {
+  friendlyName = "Connecting the API to the Cloud DynamoDB Instance"
+  dirName = "connecting-the-api-to-the-cloud-dynamodb-instance"
+  type = "Content"
+  videoUrl = ""
+}
+
+testingAndReviewingYourAPI = new Template.Microlesson {
+  friendlyName = "Testing and Reviewing Your API"
+  dirName = "testing-and-reviewing-your-api"
+  type = "Content"
+  videoUrl = ""
+}
+
+tearingDownTheEnvironment = new Template.Microlesson {
+  friendlyName = "Tearing Down the Environment"
+  dirName = "tearing-down-the-environment"
+  type = "Content"
+  videoUrl = ""
+}
+

@@ -23,9 +23,17 @@ courses {
     name = "mea"
     microlessons {
       mls.setup
-      mls.settingUpYourFirstExpressServer
-      mls.creatingAnExpressRouter
-      mls.developingCRUDWithExpressControllers
+      mls.creatingYourFirstExpressServer
+      mls.implementingRoutingInExpress
+      mls.developingApiEndpointsWithExpressControllers
+      mls.containerizingTheExpressAPI
+      mls.creatingAndConfiguringADatabaseContainer
+      mls.deployingADynamoDBTableWithAnsible
+      mls.refactoringControllersForCRUDWithDynamoDB
+      mls.provisioningDynamoDBWithTerraform
+      mls.connectingTheAPIToTheCloudDynamoDBInstance
+      mls.testingAndReviewingYourAPI
+      mls.tearingDownTheEnvironment
     }
   }
   new {
@@ -34,9 +42,17 @@ courses {
     microlessons {
       // Add microlessons here, in the order they should be delivered
       mls.setup
-      mls.settingUpYourFirstExpressServer
-      mls.creatingAnExpressRouter
-      mls.developingCRUDWithExpressControllers
+      mls.creatingYourFirstExpressServer
+      mls.implementingRoutingInExpress
+      mls.developingApiEndpointsWithExpressControllers
+      mls.containerizingTheExpressAPI
+      mls.creatingAndConfiguringADatabaseContainer
+      mls.deployingADynamoDBTableWithAnsible
+      mls.refactoringControllersForCRUDWithDynamoDB
+      mls.provisioningDynamoDBWithTerraform
+      mls.connectingTheAPIToTheCloudDynamoDBInstance
+      mls.testingAndReviewingYourAPI
+      mls.tearingDownTheEnvironment
     }
   }
 }

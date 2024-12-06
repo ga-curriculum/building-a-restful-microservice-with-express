@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Setting Up Your First Express Server",
-          "dirName": "setting-up-your-first-express-server",
+          "friendlyName": "Creating Your First Express Server",
+          "dirName": "creating-your-first-express-server",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Creating an Express Router",
-          "dirName": "creating-an-express-router",
+          "friendlyName": "Implementing Routing in Express",
+          "dirName": "implementing-routing-in-express",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,8 +50,88 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Developing CRUD Endpoints with Express Controllers",
-          "dirName": "developing-crud-endpoints-with-express-controllers",
+          "friendlyName": "Developing API Endpoints with Express Controllers",
+          "dirName": "developing-api-endpoints-with-express-controllers",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Containerizing the Express API",
+          "dirName": "containerizing-the-express-api",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Creating and Configuring a Database Container",
+          "dirName": "creating-and-configuring-a-database-container",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Deploying a DynamoDB Table with Ansible",
+          "dirName": "deploying-a-dynamodb-table-with-ansible",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Refactoring Controllers for CRUD with DynamoDB",
+          "dirName": "refactoring-controllers-for-crud-with-dynamodb",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Provisioning DynamoDB with Terraform",
+          "dirName": "provisioning-dynamodb-with-terraform",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Connecting the API to the Cloud DynamoDB Instance",
+          "dirName": "connecting-the-api-to-the-cloud-dynamodb-instance",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Testing and Reviewing Your API",
+          "dirName": "testing-and-reviewing-your-api",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Tearing Down the Environment",
+          "dirName": "tearing-down-the-environment",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -99,8 +179,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Setting Up Your First Express Server",
-          "dirName": "setting-up-your-first-express-server",
+          "friendlyName": "Creating Your First Express Server",
+          "dirName": "creating-your-first-express-server",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -109,8 +189,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Creating an Express Router",
-          "dirName": "creating-an-express-router",
+          "friendlyName": "Implementing Routing in Express",
+          "dirName": "implementing-routing-in-express",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -119,8 +199,88 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Developing CRUD Endpoints with Express Controllers",
-          "dirName": "developing-crud-endpoints-with-express-controllers",
+          "friendlyName": "Developing API Endpoints with Express Controllers",
+          "dirName": "developing-api-endpoints-with-express-controllers",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Containerizing the Express API",
+          "dirName": "containerizing-the-express-api",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Creating and Configuring a Database Container",
+          "dirName": "creating-and-configuring-a-database-container",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Deploying a DynamoDB Table with Ansible",
+          "dirName": "deploying-a-dynamodb-table-with-ansible",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Refactoring Controllers for CRUD with DynamoDB",
+          "dirName": "refactoring-controllers-for-crud-with-dynamodb",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Provisioning DynamoDB with Terraform",
+          "dirName": "provisioning-dynamodb-with-terraform",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Connecting the API to the Cloud DynamoDB Instance",
+          "dirName": "connecting-the-api-to-the-cloud-dynamodb-instance",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Testing and Reviewing Your API",
+          "dirName": "testing-and-reviewing-your-api",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Tearing Down the Environment",
+          "dirName": "tearing-down-the-environment",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
