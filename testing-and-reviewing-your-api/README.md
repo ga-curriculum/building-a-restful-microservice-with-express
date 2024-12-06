@@ -5,7 +5,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to evaluate the functionality, reliability, and integration of a RESTful API with cloud services and apply best practices for testing and reviewing software.
 
-## Testing and Review
+## Test and Review
 
 Congratulations on reaching this milestone!
 

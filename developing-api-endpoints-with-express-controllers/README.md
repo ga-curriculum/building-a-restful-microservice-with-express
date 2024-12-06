@@ -58,7 +58,7 @@ Router.route('/accounts')
 export default Router;
 ```
 
-## 4. Add Routes for Individual Account Operations
+## 4. Add routes for individual account operations
 
 Next, we'll create controller functions that handle operations for a specific account, such as fetching, updating, and deleting by ID. This will give us a complete set of CRUD functions for our accounts service.
 
@@ -145,7 +145,3 @@ node_modules/
 ```
 
 2. Commit and push your code to your version control system.
-
-## Summary
-
-In this lesson, you built an Express.js application with mock CRUD routes to simulate a microservice for managing accounts. You created an organized project structure with controllers handling the logic for each route. This foundational setup allows you to extend and develop more complex functionalities, such as connecting to a database or adding authentication.
