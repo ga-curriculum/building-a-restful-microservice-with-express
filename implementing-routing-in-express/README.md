@@ -80,7 +80,13 @@ startServer();
 
 ## 4. Test the endpoints
 
-To test your setup, use Postman or a similar tool to send GET and POST requests to `http://localhost:3000/accounts`. You should see the response messages that were defined in `router.js`.
+Lets start our server and test our new routes.
+
+```bash
+node index.js
+```
+
+To test your routes, use Postman or a similar tool to send GET and POST requests to `http://localhost:3000/accounts`. You should see the response messages that were defined in `router.js`.
 
 ## 5. Enable automatic reloading during development
 
@@ -96,9 +102,9 @@ npm install nodemon --save-dev
 
 ```json
 "scripts": {
-"test": "echo \"Error: no test specified\" && exit 1",
-"dev": "nodemon index.js",
-"prod": "node index.js"
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "dev": "nodemon index.js",
+  "prod": "node index.js"
 },
 ```
 
@@ -107,6 +113,23 @@ npm install nodemon --save-dev
 - Use the command `npm run dev` to start the server with `nodemon` in development mode. This will automatically reload the server whenever you save changes to your files.
 
 - For production use, run the command `npm run prod`, which will start the server without `nodemon`.
+
+Your see a more detailed output when your server starts this time.
+
+```bash
+[your-workstation-987541-1235qa-c80z56 accounts-service]$ npm run dev
+
+> accounts-service@1.0.0 dev
+> nodemon index.js
+
+[nodemon] 3.x.x
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,cjs,json
+[nodemon] starting `node index.js`
+
+🤖 Listening on Port: 3000
+```
 
 ### Next Steps
 

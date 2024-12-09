@@ -29,7 +29,7 @@ Copy the following code into `models/account.js` to create a `joi` schema for ac
 ```js
 import joi from 'joi';
 
-const accountSchema = joi.object()({
+const accountSchema = joi.object({
   id: joi.string().required(),
   sort_code: joi.string().required(),
   account_number: joi.number().required(),

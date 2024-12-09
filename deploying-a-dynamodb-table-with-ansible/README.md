@@ -9,7 +9,13 @@
 
 To proceed, we'll create an Ansible `playbook` that sets up a DynamoDB table. This will enable our application to read from and write to the database.
 
-Create a file named `create_accounts_table.yml` in the root of your project and paste the following code into it:
+Create a file named `create_accounts_table.yml` in the root of your project:
+
+```bash
+touch create_accounts_table.yml
+```
+
+Paste the following code into it:
 
 ```yml
 ---

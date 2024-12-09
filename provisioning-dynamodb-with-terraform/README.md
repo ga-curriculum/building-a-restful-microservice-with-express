@@ -102,7 +102,7 @@ touch accounts_database.tf
 
 Copy the following code into `accounts_database.tf` to set up the DynamoDB table:
 
-```hcl
+```plaintext
 provider "aws" {
   region = "us-east-1"
 }

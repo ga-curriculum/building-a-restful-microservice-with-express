@@ -82,15 +82,17 @@ Your `package.json` should now look similar to this:
   "main": "index.js",
   "type": "module",    <--- Add here!
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
     "@aws-sdk/client-dynamodb": "^3.x.x",
     "@aws-sdk/lib-dynamodb": "^3.x.x",
-    "dotenv": "^10.x.x",
-    "joi": "^17.x.x",
     "cors": "^2.x.x",
+    "dotenv": "^16.x.x",
+    "express": "^4.x.x",
+    "joi": "^17.x.x",
     "morgan": "^1.x.x"
   }
 }

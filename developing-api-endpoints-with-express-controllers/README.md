@@ -138,10 +138,16 @@ export default Router;
 
 Your Express app now includes endpoints for basic CRUD operations. To keep the project clean, create a `.gitignore` file to exclude `node_modules` and push your code to a repository:
 
-1. Create a `.gitignore` file with the following content:
+1. Create a `.gitignore` file:
+
+```bash
+touch .gitignore
+```
+
+2. Add the following content:
 
 ```
 node_modules/
 ```
 
-2. Commit and push your code to your version control system.
+1. Commit and push your code to your preferred version control system.
