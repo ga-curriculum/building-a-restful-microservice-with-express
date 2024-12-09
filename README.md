@@ -37,7 +37,7 @@ This module provides hands-on experience in building a RESTful microservice with
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/building-a-restful-microservice-with-express-solution)
 
 ### Course landing pages
 
